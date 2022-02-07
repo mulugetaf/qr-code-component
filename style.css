@@ -39,11 +39,11 @@ img {
     background-color: var(--bg-color);
     color: var(--dark-blue);
     position: relative;
-    width: max(20%, 320px);
+    width: max(20%, 350px);
     border-radius: 20px;
     display: inline-block;
-    margin-top: 150px;
-    margin-bottom: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     box-shadow: -4px 12px 20px -11px rgba(0, 0, 0.50, 0.50);
     padding: 20px;
 }
